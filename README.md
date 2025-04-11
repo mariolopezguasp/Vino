@@ -37,3 +37,6 @@ La variable objetivo es `quality`, que representa la calidad del vino según una
 4. **Evaluación**  
    - Métricas utilizadas: Accuracy, Matriz de Confusión, Reporte de Clasificación.
    - Comparación entre modelos para determinar cuál predice mejor la calidad del vino.
+
+## ✅ Resultados
+El proyecto demuestra que es posible predecir la calidad del vino con un buen grado de precisión a partir de sus propiedades químicas. Se concluye que el modelo basado en árboles ofrece un rendimiento competitivo frente a la regresión logística.
